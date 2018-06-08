@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_kCUWoWr9EeipZcOU5G3lyw" label="serverlessdemo" description="serverless demo project" language="java" technicalLabel="SERVERLESSDEMO" author="_kCUWomr9EeipZcOU5G3lyw" productVersion="Talend Cloud Real-Time Big Data Platform-7.0.1.20180411_1414" url="{&quot;location&quot;:&quot;https://github.com/mgiribabu/giriserverlessdemo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_kCUWomr9EeipZcOU5G3lyw" login="gmadathala@eos.talend.com" firstName="Giri" lastName="Madathala" type="DQ"/>
+</xmi:XMI>
