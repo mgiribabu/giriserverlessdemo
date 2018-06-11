@@ -505,4 +505,6 @@
     <migrationTask xmi:id="_qLGTE2r9EeipZcOU5G3lyw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_kCUWomr9EeipZcOU5G3lyw" login="gmadathala@eos.talend.com" firstName="Giri" lastName="Madathala" type="DQ"/>
+  <TalendProperties:User xmi:id="_j2neIW2IEeiZEv4kWDZDFQ" login="cdavie@eos.talend.com" firstName="Cameron" lastName="Davie" type="DQ"/>
+  <TalendProperties:User xmi:id="_j2neIm2IEeiZEv4kWDZDFQ" login="eost@eos.talend.com" firstName="Ed" lastName="Ost" type="DQ"/>
 </xmi:XMI>
