@@ -12,6 +12,8 @@
     <module>jobs/process/snowflakeload_0.1</module>
     <module>code/routines</module>
     <module>jobs/process/s3load_0.1</module>
+    <module>jobs/process/build_geo_data_0.1</module>
+    <module>jobs/process/clickstreamtosnowflakecopy_0.1</module>
   </modules>
   <properties>
     <talend.project.name>SERVERLESSDEMO</talend.project.name>
